@@ -11,6 +11,7 @@ h2 Commands:
 - git remote --verbose       --> List the remote repositories. 
 - git checkout -b feature_1  --> Create a new branch and goes to it.
 - git branch --verbose       --> List branches in the repository.
+- git commit -m"" -m""       --> Creates commits with title and description.
 
 - extra:
 	- vim ~/.zshrc       --> Configure file in the home directory.
